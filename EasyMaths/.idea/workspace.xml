@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c6b4f25d-0962-4eee-9247-c88af9e18725" name="Default Changelist" comment="" />
+    <list default="true" id="c6b4f25d-0962-4eee-9247-c88af9e18725" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicesLivres/META-INF/exercicesLivres.kotlin_module" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,12 +21,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/romz/Calcul.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+            <state relative-caret-position="153">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
               <folding>
                 <element signature="docComment;method#askType#0;class#Calcul#0" />
                 <element signature="method#askType#0;class#Calcul#0" />
-                <element signature="docComment;method#getSurfRectangle#0;class#Calcul#0" />
                 <element signature="method#getSurfRectangle#0;class#Calcul#0" />
                 <element signature="docComment;method#getAreaSquare#0;class#Calcul#0" />
                 <element signature="method#getAreaSquare#0;class#Calcul#0" />
@@ -50,6 +53,9 @@
       <find>mesure</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -62,24 +68,28 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-1687" />
-    <option name="y" value="16" />
-    <option name="width" value="1247" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1459" />
+    <option name="y" value="5" />
+    <option name="width" value="1165" />
     <option name="height" value="1017" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549577428441" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549653918534" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -123,31 +133,37 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549562963842</updated>
+      <workItem from="1549653745886" duration="286000" />
     </task>
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="286000" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-1687" y="16" width="1247" height="1017" extended-state="0" />
-    <editor active="true" />
+    <frame x="-1688" y="8" width="1696" height="1026" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4974705" visible="true" weight="0.25358045" />
-      <window_info id="Structure" order="1" sideWeight="0.5025295" side_tool="true" visible="true" weight="0.25358045" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49612403" visible="true" weight="0.17420538" />
+      <window_info id="Structure" order="1" sideWeight="0.503876" side_tool="true" visible="true" weight="0.17420538" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49873632" weight="0.32918552" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8020219" weight="0.32918552" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.80134475" weight="0.1343785" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49873632" weight="0.39932126" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49957877" weight="0.32918552" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.1979781" side_tool="true" visible="true" weight="0.32918552" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.19865526" side_tool="true" visible="true" weight="0.13325869" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49957877" weight="0.32918552" />
+      <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -157,6 +173,9 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -198,27 +217,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/romz/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/romz/Calcul.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        <state relative-caret-position="153">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
           <folding>
             <element signature="docComment;method#askType#0;class#Calcul#0" />
             <element signature="method#askType#0;class#Calcul#0" />
-            <element signature="e#446#497#1" />
-            <element signature="e#520#569#1" />
-            <element signature="e#585#633#1" />
-            <element signature="e#568#613#1" />
-            <element signature="docComment;method#getSurfRectangle#0;class#Calcul#0" />
             <element signature="method#getSurfRectangle#0;class#Calcul#0" />
             <element signature="docComment;method#getAreaSquare#0;class#Calcul#0" />
             <element signature="method#getAreaSquare#0;class#Calcul#0" />
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/romz/Main.java">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
